@@ -1,4 +1,4 @@
-# This is OPEN SOURCE CLASSROOM ahihi
+# This makes conflict
 đasadsa
 lỗi
 conflict 
